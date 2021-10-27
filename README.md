@@ -234,3 +234,7 @@ The plugin reads the assumed directory structure, the plugin will combine all pr
 }
 ```
 (if `app_ios` or `app_android` are detected they will be used and override keys from `app`)
+
+# Reference
+[cordova-plugin-localization-strings](https://github.com/kelvinhokk/cordova-plugin-localization-strings)
+
